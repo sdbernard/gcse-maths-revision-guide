@@ -9,7 +9,7 @@ In this guide you will find formulae, diagrams, graphs and worked examples of pa
 
 ## Topics covered in the guide
 * Speed, distance, time
-* Mass, desnity, volume
+* Mass, density, volume
 * Force, pressure area
 * Circle theorems
 * Pythagoras theorem (including SOHCAHTOA)
@@ -21,7 +21,7 @@ In this guide you will find formulae, diagrams, graphs and worked examples of pa
 * Histograms
 * Representing inequalities graphically
 * Quadratic sequences
-* Finidng the equation of the tangent to a circle
+* Finding the equation of the tangent to a circle
 * Similarity and congruence
 * Similarity in 2d and 3d shapes
 * Rules of indices, roots and surds
@@ -33,7 +33,7 @@ In this guide you will find formulae, diagrams, graphs and worked examples of pa
 * Distance, speed, time graphs
 * Angle properties
 * Ratio and proportion
-* Percentages, including fractions adn decimals
+* Percentages, including fractions and decimals
 * Linear graphs
 * Solving quadratic equations graphically
 * Quadratic equations
